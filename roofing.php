@@ -73,5 +73,6 @@ include "inc/bottom-tabs.php";
 
 	<div id = "bot_foot"></div>
 
-<?php include 'inc/footer.php'; ?></body>
+<?php include 'inc/footer.php'; ?>
+</body>
 </html>
