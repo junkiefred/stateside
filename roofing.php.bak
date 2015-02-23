@@ -36,7 +36,7 @@ include "inc/top-tabs.php";
 
 <!-- bottom main nav bar -->
 <?php 
-$active_btab = "estimate";
+$active_btab = "roofing";
 include "inc/bottom-tabs.php"; 
 ?>
 
