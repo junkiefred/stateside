@@ -1,0 +1,7 @@
+	<div id = "bot_nav">
+		<a href = "http://daviddeschaine.com/free-estimate"><img src="img/tab/estimate_of.gif" onmouseover = "tab5n()" onmouseout = "tab5f()" name = "estimate" /></a>
+		<a href = "http://daviddeschaine.com/maine-roofing"><img src="img/tab/roofing_of.gif" onmouseover = "tab6n()" onmouseout = "tab6f()" name = "roofing" /></a>
+		<a href = "http://daviddeschaine.com/maine-vinyl-siding"><img src="img/tab/siding_of.gif" onmouseover = "tab7n()" onmouseout = "tab7f()" name = "siding" /></a>
+		<a href = "http://daviddeschaine.com/maine-replacement-windows"><img src="img/tab/windows_of.gif" onmouseover = "tab8n()" onmouseout = "tab8f()" name = "windows" /></a>
+		<a href = "http://daviddeschaine.com/maine-seamless-gutters"><img src="img/tab/gutters_of.gif" onmouseover = "tab9n()" onmouseout = "tab9f()" name = "gutters" /></a>
+	</div>

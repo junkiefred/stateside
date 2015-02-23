@@ -1,0 +1,12 @@
+	<div id = "footer">
+		<div>
+			<p class = "left"><?php echo $compnay_email; ?></p>
+			<p class = "right">Copyright &copy;2015 <?php echo $company_name; ?></p></div>
+			<p class = "center">
+				<a href = "/">Home</a>
+				<a href = "/blog/">Roofing Articles</a>
+				<a href = "/contact-us">Contact Us</a>
+				<a href = "/privacy-policy.php">Privacy Policy</a></p>
+			</p>			
+		</div>
+	</div>

@@ -1,0 +1,54 @@
+
+<?php
+
+echo '	<div id = "top_nav">';
+
+	if ($active_tab=='photos')
+	{
+		echo '<a href = "photos-roofing.php"><img src="img/tab/photos_on.gif" name = "photos" /></a>';
+	}
+	else
+	{
+		echo '<a href = "photos-roofing.php"><img src="img/tab/photos_of.gif" onmouseover = "tab1n()" onmouseout = "tab1f()" name = "photos" /></a>';
+	}
+
+	if ($active_tab=='videos')
+	{
+		echo '<a href = "videos-roofing.php"><img src="img/tab/videos_on.gif" name = "videos" /></a>';
+	}
+	else
+	{
+		echo '<a href = "videos-roofing.php"><img src="img/tab/videos_of.gif" onmouseover = "tab2n()" onmouseout = "tab2f()" name = "videos" /></a>';
+	}
+
+
+	if ($active_tab=='testimonials')
+	{
+		echo '<a href = "testimonials.php"><img src="img/tab/testimonials_on.gif" name = "testimonials" /></a>';
+	}
+	else
+	{
+		echo '<a href = "testimonials.php"><img src="img/tab/testimonials_of.gif" onmouseover = "tab3n()" onmouseout = "tab3f()" name = "testimonials" /></a>';
+	}
+
+	if ($active_tab=='questions')
+	{
+		echo '<a href = "questions.php"><img src="img/tab/questions_on.gif" name = "questions" /></a>';
+	}
+	else
+	{
+		echo '<a href = "questions.php"><img src="img/tab/questions_of.gif" onmouseover = "tab4n()" onmouseout = "tab4f()" name = "questions" /></a>';
+	}
+
+	if ($active_tab=='about')
+	{
+		echo '<a href = "about-us.php"><img src="img/tab/about_on.gif" name = "about" /></a>';
+	}
+	else
+	{
+		echo '<a href = "about-us.php"><img src="img/tab/about_of.gif" onmouseover = "tab0n()" onmouseout = "tab0f()" name = "about" /></a>';
+	}
+/**/
+	echo ' </div>';;
+?>
+

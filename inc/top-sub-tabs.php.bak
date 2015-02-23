@@ -1,0 +1,43 @@
+<?php
+echo	'<div id = "top_subnav">							';
+
+if ($selected_tab=='roofing')
+{
+		echo '<a href = "videos-roofing.php" class = "selected">Roofing Videos</a>';
+}
+else
+{
+		echo '<a href = "videos-roofing.php">Roofing Videos</a>';
+}
+
+if ($selected_tab=='siding')
+{
+		echo '<a href = "videos-siding.php" class = "selected">Siding Videos</a>';
+}
+else
+{
+		echo '<a href = "videos-siding.php">Siding Videos</a>';
+}
+
+if ($selected_tab=='windows')
+{
+		echo '<a href = "videos-windows.php" class = "selected">Windows Videos</a>';
+}
+else
+{
+		echo '<a href = "videos-windows.php">Windows Videos</a>';
+}
+
+if ($selected_tab=='gutters')
+{
+		echo '<a href = "videos-gutters.php" class = "selected">Gutters Videos</a>';
+}
+else
+{
+		echo '<a href = "videos-gutters.php">Gutters Videos</a>';
+}
+
+echo	'</div>';
+?>
+
+

@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+h1{
+	font-size:24px;
+	margin:12px 0;
+	}
+h2{
+	font-size:18px;
+	margin:10px 0;
+	}
+h3{
+	font-size:16px;
+	margin:8px 0;
+	}
+h4{
+	font-size:14px;
+	margin:8px 0;
+	}
+p{
+	font-size:12px;
+	line-height:16px;
+	margin:8px 0;
+	}
+ul{
+	
+	}
+li{
+	font-size:12px;
+	line-height:18px;
+	}
+a{
+	
+	}
+a:hover{
+	
+	}
+input[type=text]{
+	width:300px;
+	margin-bottom:7px;
+	}
+textarea{
+	width:500px;
+	height:100px;
+	margin:2px 0 7px 0;
+	}
+select{
+	width:200px;
+	margin-bottom:7px;
+	}
+body{
+	margin:0;
+	padding:0;
+	font-family:Verdana, Arial, sans-serif;
+	font-size:66.7%;
+	}
+	#page{
+		margin:0 auto;
+		padding:0;
+		width:950px;
+		}
+a.fe img{
+	float:right;
+	border:0px;
+	position:absolute;
+	bottom:0px;
+	right:10px;
+	}
